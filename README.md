@@ -1,0 +1,1 @@
+This is the repository for the CVD projection paper for Brazil. The repo contains a .rar file that is an R project. The R project contains folders which have the script, data, results, and figures used for the paper.
